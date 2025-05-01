@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+**/node_modules/**
+
+# Archivos compilados
+dist/
+dist/**
+
+# Archivos generados
+build/
+coverage/
+
+# Archivos de sistema
+.DS_Store
+
+# Archivos de configuración de paquetes
+pnpm-lock.yaml
